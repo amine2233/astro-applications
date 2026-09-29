@@ -1,0 +1,19 @@
+---
+title: My Apps
+description: Documentation, support and legal information for all my applications.
+template: splash
+hero:
+  tagline: Documentation, help and legal information for every app.
+  actions:
+    - text: Sample App
+      link: ./sample-app/
+      icon: right-arrow
+---
+
+import { CardGrid, LinkCard } from '@astrojs/starlight/components';
+
+## Applications
+
+<CardGrid>
+  <LinkCard title="Sample App" description="iOS · macOS — short pitch of the app." href="./sample-app/" />
+</CardGrid>

@@ -1,0 +1,42 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      # Custom domain? Set repo variables SITE=https://docs.example.com and BASE=/
+      # (Settings › Secrets and variables › Actions › Variables).
+      SITE: ${{ vars.SITE || format('https://{0}.github.io', github.repository_owner) }}
+      BASE: ${{ vars.BASE || format('/{0}', github.event.repository.name) }}
+    steps:
+      - uses: actions/checkout@v7
+      - uses: jdx/mise-action@v3
+      - run: npm ci
+      - run: npm run build
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v5

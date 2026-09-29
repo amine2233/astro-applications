@@ -1,0 +1,14 @@
+/* Brand customization — change the accent and fonts here. */
+:root {
+  --sl-color-accent-low: #0b2a4a;
+  --sl-color-accent: #1f7ae0;
+  --sl-color-accent-high: #cfe3fb;
+  --sl-font: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Inter', system-ui, sans-serif;
+  --sl-content-width: 52rem;
+}
+
+:root[data-theme='light'] {
+  --sl-color-accent-low: #d6e7fc;
+  --sl-color-accent: #0a64c8;
+  --sl-color-accent-high: #06305f;
+}
