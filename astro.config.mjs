@@ -1,6 +1,7 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
+import starlightSidebarTopics from 'starlight-sidebar-topics';
 import { apps } from './src/apps.config.mjs';
 
 // SITE / BASE are injected by the GitHub Action (see .github/workflows/deploy.yml).
@@ -25,12 +26,18 @@ export default defineConfig({
         en: { label: 'English', lang: 'en' },
         fr: { label: 'Français', lang: 'fr' },
       },
-      // --- One sidebar group per app, generated from src/apps.config.mjs -------
-      sidebar: apps.map((app) => ({
-        label: app.name,
-        translations: { fr: app.nameFr ?? app.name },
-        items: [{ autogenerate: { directory: app.slug } }],
-      })),
+      // --- One independent sidebar per app, generated from src/apps.config.mjs -
+      // Each app is its own "topic": browsing Markpages never shows Link Clipper
+      // or QR Editor in the sidebar, and vice versa.
+      plugins: [
+        starlightSidebarTopics(
+          apps.map((app) => ({
+            label: { en: app.name, fr: app.nameFr ?? app.name },
+            link: `/${app.slug}/`,
+            items: [{ autogenerate: { directory: app.slug } }],
+          })),
+        ),
+      ],
       customCss: ['./src/styles/custom.css'],
       lastUpdated: true,
       pagination: false,

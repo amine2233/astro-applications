@@ -17,18 +17,19 @@ npm run build        # static output in dist/
 npm run new-app -- budget-pro "Budget Pro" "Personal finance tracker"
 ```
 
-This copies `sample-app` to `src/content/docs/{en,fr}/budget-pro/`, registers it in the sidebar
-(`src/apps.config.mjs`) and adds a card on both home pages. Then edit the Markdown.
+This copies `templates/sample-app/{en,fr}` to `src/content/docs/{en,fr}/budget-pro/`, registers it
+as its own sidebar topic (`src/apps.config.mjs`) and adds a card on both home pages. Then edit the
+Markdown. `templates/sample-app` lives outside `src/content/docs`, so it's never built as a page itself.
 
 ## Structure
 
 ```
 src/
-├── apps.config.mjs            # list of apps → sidebar groups
+├── apps.config.mjs            # list of apps → one independent sidebar ("topic") per app
 ├── content/docs/
 │   ├── en/
 │   │   ├── index.mdx          # home (app grid)
-│   │   └── sample-app/
+│   │   └── <app-slug>/
 │   │       ├── index.md       # overview          → App Store "Marketing URL"
 │   │       ├── usage.md       # getting started
 │   │       ├── help.md        # FAQ + contact     → App Store "Support URL"
@@ -39,7 +40,12 @@ src/
 │   └── fr/ …                  # same tree, translated
 ├── styles/custom.css          # colors, fonts
 └── pages/index.astro          # "/" → /fr/ or /en/ based on browser language
+
+templates/sample-app/{en,fr}    # scaffold source for `npm run new-app` (not a built page)
 ```
+
+Each app's sidebar is fully independent — browsing one app's docs never shows another app's pages,
+via the [starlight-sidebar-topics](https://starlight-sidebar-topics.netlify.app) plugin.
 
 ## App Store Connect URLs
 
