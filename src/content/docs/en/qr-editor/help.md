@@ -25,5 +25,5 @@ Refunds are handled by Apple: [reportaproblem.apple.com](https://reportaproblem.
 
 ## Contact
 
-Email **amine.bensalah@intech-consulting.fr** — include your QR Editor version (**Settings › About**) and device model.
-We usually reply within 2 business days.
+Open an issue on [GitHub](https://github.com/amine2233) — include your QR Editor version (**Settings › About**) and device model.
+We usually reply within a few days.

@@ -26,4 +26,4 @@ Link Clipper ne collectant aucune donnée personnelle, il n'existe aucune donné
 
 ## Contact
 
-Mohamed Amine Bensalah — amine.bensalah@intech-consulting.fr
+Mohamed Amine Bensalah — [github.com/amine2233](https://github.com/amine2233)

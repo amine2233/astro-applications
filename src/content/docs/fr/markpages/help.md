@@ -25,5 +25,5 @@ Oui, Markpages est gratuit au téléchargement et à l'utilisation.
 
 ## Contact
 
-Écrivez à **amine.bensalah@intech-consulting.fr** — indiquez votre version de Markpages (**Réglages › À propos**) et le modèle de votre appareil pour une réponse plus rapide.
-Nous répondons généralement sous 2 jours ouvrés.
+Ouvrez un ticket sur [GitHub](https://github.com/amine2233) — indiquez votre version de Markpages (**Réglages › À propos**) et le modèle de votre appareil pour une réponse plus rapide.
+Nous répondons généralement sous quelques jours.

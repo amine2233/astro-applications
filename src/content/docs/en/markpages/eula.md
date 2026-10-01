@@ -12,4 +12,4 @@ No additional purchase or subscription is required to use the app.
 
 ## Contact
 
-Questions about these terms: **amine.bensalah@intech-consulting.fr**
+Questions about these terms: open an issue on [GitHub](https://github.com/amine2233)

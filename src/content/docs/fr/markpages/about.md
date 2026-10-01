@@ -8,7 +8,7 @@ sidebar:
 **Markpages** est développé par **Mohamed Amine Bensalah** (Intech Consulting), développeur indépendant d'applications natives pour les plateformes Apple.
 
 - Site web : [markpages.app](https://markpages.app)
-- Contact : amine.bensalah@intech-consulting.fr
+- Contact : [github.com/amine2233](https://github.com/amine2233)
 - Version actuelle : 1.11.4
 
 ## Notes de version

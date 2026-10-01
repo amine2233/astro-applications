@@ -25,5 +25,5 @@ Les remboursements sont gérés par Apple : [reportaproblem.apple.com](https://r
 
 ## Contact
 
-Écrivez à **amine.bensalah@intech-consulting.fr** — indiquez votre version de macOS et de Safari.
-Nous répondons généralement sous 2 jours ouvrés.
+Ouvrez un ticket sur [GitHub](https://github.com/amine2233) — indiquez votre version de macOS et de Safari.
+Nous répondons généralement sous quelques jours.

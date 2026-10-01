@@ -7,7 +7,7 @@ sidebar:
 
 **QR Editor** is developed by **Mohamed Amine Bensalah**, an independent developer building native apps for Apple platforms.
 
-- Contact: amine.bensalah@intech-consulting.fr
+- Contact: [github.com/amine2233](https://github.com/amine2233)
 - Current version: 1.0
 
 ## Release notes

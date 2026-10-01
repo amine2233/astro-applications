@@ -22,4 +22,4 @@ Les remboursements sont gérés par Apple, et non par nous. Faites votre demande
 
 ## Contact
 
-Questions sur ces conditions : **amine.bensalah@intech-consulting.fr**
+Questions sur ces conditions : ouvrez un ticket sur [GitHub](https://github.com/amine2233)

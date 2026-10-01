@@ -18,10 +18,7 @@ export default defineConfig({
       title: { en: 'Amine Bensalah', fr: 'Amine Bensalah' },
       logo: { src: './src/assets/logo.svg' },
       favicon: '/favicon.svg',
-      social: [
-        { icon: 'github', label: 'GitHub', href: 'https://github.com/amine2233' },
-        { icon: 'email', label: 'Support', href: 'mailto:amine.bensalah@intech-consulting.fr' },
-      ],
+      social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/amine2233' }],
       // --- i18n: /en/... and /fr/... ---------------------------------------
       defaultLocale: 'en',
       locales: {

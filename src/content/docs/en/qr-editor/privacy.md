@@ -30,4 +30,4 @@ Since QR Editor does not collect personal data on our servers, there is no accou
 
 ## Contact
 
-Mohamed Amine Bensalah — amine.bensalah@intech-consulting.fr
+Mohamed Amine Bensalah — [github.com/amine2233](https://github.com/amine2233)

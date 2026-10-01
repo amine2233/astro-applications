@@ -12,4 +12,4 @@ Aucun achat ni abonnement supplémentaire n'est requis pour utiliser l'applicati
 
 ## Contact
 
-Questions sur ces conditions : **amine.bensalah@intech-consulting.fr**
+Questions sur ces conditions : ouvrez un ticket sur [GitHub](https://github.com/amine2233)
