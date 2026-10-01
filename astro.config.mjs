@@ -15,12 +15,12 @@ export default defineConfig({
   trailingSlash: 'always',
   integrations: [
     starlight({
-      title: { en: 'My Apps', fr: 'Mes Apps' },
+      title: { en: 'Amine Bensalah', fr: 'Amine Bensalah' },
       logo: { src: './src/assets/logo.svg' },
       favicon: '/favicon.svg',
       social: [
-        { icon: 'github', label: 'GitHub', href: 'https://github.com/your-account' },
-        { icon: 'email', label: 'Support', href: 'mailto:support@example.com' },
+        { icon: 'github', label: 'GitHub', href: 'https://github.com/amine2233' },
+        { icon: 'email', label: 'Support', href: 'mailto:amine.bensalah@intech-consulting.fr' },
       ],
       // --- i18n: /en/... and /fr/... ---------------------------------------
       defaultLocale: 'en',
