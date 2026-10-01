@@ -1,18 +1,17 @@
 ---
 title: À propos
-description: À propos de QR Editor et de son éditeur.
+description: À propos de QR Editor et de son développeur.
 sidebar:
   order: 6
 ---
 
-**QR Editor** est développée par **Votre société**, studio indépendant d'applications natives pour les plateformes Apple.
+**QR Editor** est développé par **Mohamed Amine Bensalah**, développeur indépendant d'applications natives pour les plateformes Apple.
 
-- Site : [example.com](https://example.com)
-- Contact : support@example.com
+- Contact : amine.bensalah@intech-consulting.fr
 - Version actuelle : 1.0
 
 ## Notes de version
 
-### 1.0 — septembre 2026
+### 1.0 — Octobre 2026
 
-- Première version.
+- Version initiale : créez, personnalisez et exportez des QR codes avec couleurs, formes et logos intégrés.

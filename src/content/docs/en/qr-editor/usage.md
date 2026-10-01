@@ -5,26 +5,30 @@ sidebar:
   order: 1
 ---
 
-## First launch
+## Creating your first QR code
 
-1. Open **QR Editor**.
-2. Allow notifications if you want reminders.
-3. Tap **+** to create your first item.
+1. Open **QR Editor** and tap **New**.
+2. Choose what the code should contain — a link, plain text, Wi-Fi details, or a contact card.
+3. Tap **Generate** to create the base code.
 
-## Main features
+## Customizing the design
 
-### Feature one
+### Colors & shapes
 
-Explain the feature in 2–3 sentences. Add a screenshot:
-
-<!-- ![Main screen](../../../../assets/sample-app/main.png) -->
-
-### Feature two
+Pick a foreground and background color, and choose a dot and corner style from the shape picker.
 
 :::tip
-Swipe left on an item to archive it.
+Keep enough contrast between foreground and background — a beautiful code that doesn't scan isn't useful. QR Editor warns you if contrast gets too low.
 :::
 
-## Sync & backup
+### Adding a logo
 
-Data is stored on your device and synced with iCloud when enabled in **Settings › iCloud**.
+Tap **Logo**, choose an image from your library, and position it in the center. QR Editor automatically increases error correction so the code stays scannable.
+
+## Exporting
+
+Tap **Export** and choose a format and size suited to where the code will be used — print or digital.
+
+## Pro subscription
+
+Some advanced customization options and export formats are part of the **Pro** subscription. See [Terms of use](./eula/) for subscription details, or **Settings › Restore purchases** if you've already subscribed.

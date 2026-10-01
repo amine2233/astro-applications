@@ -3,22 +3,22 @@ title: Politique de confidentialité
 description: Politique de confidentialité de QR Editor.
 sidebar:
   order: 3
-effectiveDate: "2026-09-28"
+effectiveDate: "2026-10-01"
 ---
 
-_Date d'effet : 28 septembre 2026_
-
-:::caution[Modèle]
-Remplacez ce texte par une politique qui reflète réellement le fonctionnement de l'app — elle doit être cohérente avec vos étiquettes de confidentialité App Store.
-:::
+_Date d'effet : 1er octobre 2026_
 
 ## Données collectées
 
-QR Editor **ne collecte aucune donnée personnelle**. Vos contenus restent sur votre appareil et, si activé, dans votre compte iCloud privé, auquel nous n'avons pas accès.
+QR Editor ne collecte ni ne revend **aucune** donnée personnelle. Les QR codes que vous créez, ainsi que tout texte, lien ou logo intégré, sont générés et stockés entièrement sur votre appareil.
 
 ## Statistiques & rapports de plantage
 
-Nous recevons uniquement des rapports de plantage et statistiques anonymes partagés via Apple par les utilisateurs qui l'ont accepté.
+Nous ne recevons que des rapports de plantage et des statistiques d'usage anonymes, partagés par les utilisateurs ayant opté pour le partage via Apple.
+
+## Abonnements
+
+Les achats d'abonnement sont traités entièrement par Apple via l'App Store. Nous ne recevons pas vos coordonnées de paiement — uniquement une confirmation anonyme qu'un abonnement est actif.
 
 ## Tiers
 
@@ -26,8 +26,8 @@ Aucune donnée n'est vendue ni partagée avec des tiers.
 
 ## Vos droits (RGPD)
 
-Vous pouvez demander l'accès ou la suppression de toute donnée vous concernant à **privacy@example.com**.
+QR Editor ne collectant aucune donnée personnelle sur nos serveurs, il n'existe aucune donnée de compte que nous puissions consulter ou supprimer en votre nom.
 
 ## Contact
 
-Votre société — Adresse — privacy@example.com
+Mohamed Amine Bensalah — amine.bensalah@intech-consulting.fr
