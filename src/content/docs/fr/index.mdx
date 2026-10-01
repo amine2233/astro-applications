@@ -6,12 +6,28 @@ hero:
   tagline: Des applications indépendantes pour les plateformes Apple — documentation, support et informations légales au même endroit.
 ---
 
-import { CardGrid, LinkCard } from '@astrojs/starlight/components';
-
 ## Applications
 
-<CardGrid>
-  <LinkCard title="Markpages" description="iOS · iPadOS · macOS · visionOS — enregistrez et lisez n'importe quelle page web, organisée et sans publicité." href="./markpages/" />
-  <LinkCard title="Link Clipper" description="macOS — copiez des liens propres, prêts pour Markdown, depuis Safari." href="./link-clipper/" />
-  <LinkCard title="QR Editor" description="iOS · iPadOS · macOS — créez et personnalisez de superbes QR codes." href="./qr-editor/" />
-</CardGrid>
+<div class="app-grid">
+  <a class="app-card app-card--markpages" href="./markpages/">
+    <span class="app-card__icon">📖</span>
+    <h3 class="app-card__title">Markpages</h3>
+    <p class="app-card__platforms">iOS · iPadOS · macOS · visionOS</p>
+    <p class="app-card__desc">Enregistrez et lisez n'importe quelle page web, organisée et sans publicité.</p>
+    <span class="app-card__cta">Découvrir →</span>
+  </a>
+  <a class="app-card app-card--link-clipper" href="./link-clipper/">
+    <span class="app-card__icon">🔗</span>
+    <h3 class="app-card__title">Link Clipper</h3>
+    <p class="app-card__platforms">macOS</p>
+    <p class="app-card__desc">Copiez des liens propres, prêts pour Markdown, depuis Safari.</p>
+    <span class="app-card__cta">Découvrir →</span>
+  </a>
+  <a class="app-card app-card--qr-editor" href="./qr-editor/">
+    <span class="app-card__icon">🔲</span>
+    <h3 class="app-card__title">QR Editor</h3>
+    <p class="app-card__platforms">iOS · iPadOS · macOS</p>
+    <p class="app-card__desc">Créez et personnalisez de superbes QR codes.</p>
+    <span class="app-card__cta">Découvrir →</span>
+  </a>
+</div>
