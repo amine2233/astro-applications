@@ -8,21 +8,31 @@ sidebar:
 ## Premier lancement
 
 1. Ouvrez **Markpages**.
-2. Autorisez les notifications si vous souhaitez des rappels.
-3. Touchez **+** pour créer votre premier élément.
+2. Activez la synchronisation iCloud si vous comptez utiliser plusieurs appareils (**Réglages › iCloud**).
+3. Enregistrez votre première page — voir ci-dessous.
 
-## Fonctionnalités principales
+## Enregistrer une page
 
-### Fonctionnalité 1
+### Depuis Safari
 
-Décrivez la fonctionnalité en 2–3 phrases et ajoutez une capture d'écran.
+Appuyez sur le bouton **Partager** sur n'importe quelle page web, puis choisissez **Markpages**. La page est enregistrée instantanément, texte et images inclus, disponible hors ligne.
 
-### Fonctionnalité 2
+### Depuis l'application
+
+Collez directement une URL dans Markpages via le bouton **+**.
+
+## Organiser votre bibliothèque
 
 :::tip
-Balayez un élément vers la gauche pour l'archiver.
+Ajoutez des tags et des catégories dès l'enregistrement — c'est bien plus rapide que de tout trier plus tard.
 :::
+
+Utilisez les **catégories** pour les grands ensembles (Travail, Recettes, À lire), et les **tags** pour des étiquettes transversales. Créez une **liste** pour regrouper des pages autour d'un projet ou d'un voyage.
+
+## Lecture
+
+Ouvrez une page enregistrée pour accéder au mode lecture : sans publicité, sans distraction. Réglez le thème, la police et la taille du texte depuis le menu **Aa** du lecteur.
 
 ## Synchronisation & sauvegarde
 
-Les données sont stockées sur votre appareil et synchronisées avec iCloud si l'option est activée dans **Réglages › iCloud**.
+Votre bibliothèque est stockée sur votre appareil et, lorsque la synchronisation iCloud est activée, tenue à jour sur tous les appareils connectés avec le même identifiant Apple.

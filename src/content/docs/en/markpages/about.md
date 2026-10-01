@@ -5,14 +5,14 @@ sidebar:
   order: 6
 ---
 
-**Markpages** is developed by **Your Company**, an independent studio building native apps for Apple platforms.
+**Markpages** is developed by **Mohamed Amine Bensalah** (Intech Consulting), an independent developer building native apps for Apple platforms.
 
-- Website: [example.com](https://example.com)
-- Contact: support@example.com
-- Current version: 1.0
+- Website: [markpages.app](https://markpages.app)
+- Contact: amine.bensalah@intech-consulting.fr
+- Current version: 1.11.4
 
 ## Release notes
 
-### 1.0 — September 2026
+### 1.11.4 — April 2026
 
-- Initial release.
+- Stability and performance improvements.

@@ -3,22 +3,18 @@ title: Politique de confidentialité
 description: Politique de confidentialité de Markpages.
 sidebar:
   order: 3
-effectiveDate: "2026-09-28"
+effectiveDate: "2026-10-01"
 ---
 
-_Date d'effet : 28 septembre 2026_
-
-:::caution[Modèle]
-Remplacez ce texte par une politique qui reflète réellement le fonctionnement de l'app — elle doit être cohérente avec vos étiquettes de confidentialité App Store.
-:::
+_Date d'effet : 1er octobre 2026_
 
 ## Données collectées
 
-Markpages **ne collecte aucune donnée personnelle**. Vos contenus restent sur votre appareil et, si activé, dans votre compte iCloud privé, auquel nous n'avons pas accès.
+Markpages ne collecte ni ne revend **aucune** donnée personnelle. Les pages que vous enregistrez, ainsi que les tags, catégories et listes que vous créez, restent sur votre appareil et, si vous activez la synchronisation iCloud, dans votre compte iCloud privé — auquel nous n'avons pas accès.
 
 ## Statistiques & rapports de plantage
 
-Nous recevons uniquement des rapports de plantage et statistiques anonymes partagés via Apple par les utilisateurs qui l'ont accepté.
+Nous ne recevons que des rapports de plantage et des statistiques d'usage anonymes, partagés par les utilisateurs ayant opté pour le partage via Apple.
 
 ## Tiers
 
@@ -26,8 +22,8 @@ Aucune donnée n'est vendue ni partagée avec des tiers.
 
 ## Vos droits (RGPD)
 
-Vous pouvez demander l'accès ou la suppression de toute donnée vous concernant à **privacy@example.com**.
+Markpages ne collectant aucune donnée personnelle sur nos serveurs, il n'existe aucune donnée de compte que nous puissions consulter ou supprimer en votre nom. Pour toute question sur les données stockées dans votre propre compte iCloud, gérez-les directement depuis **Réglages › [votre nom] › iCloud**.
 
 ## Contact
 
-Votre société — Adresse — privacy@example.com
+Mohamed Amine Bensalah — amine.bensalah@intech-consulting.fr

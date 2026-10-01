@@ -7,19 +7,23 @@ sidebar:
 
 ## FAQ
 
-### My data doesn't sync
+### My saved pages aren't syncing to my other device
 
-Check that iCloud is enabled in **Settings › [your name] › iCloud** and that Markpages is allowed to use it.
+Check that iCloud is enabled for Markpages on every device (**Settings › [your name] › iCloud**) and that you're signed in with the same Apple ID.
 
-### How do I restore my purchase?
+### Can I read saved pages without an internet connection?
 
-Open **Settings › Restore purchases** in the app.
+Yes — pages are saved with their text and images, so you can read them offline once saved.
 
-### How do I request a refund?
+### How do I remove ads or pop-ups from a saved page?
 
-Refunds are handled by Apple: [reportaproblem.apple.com](https://reportaproblem.apple.com).
+Markpages' reader view strips ads and pop-ups automatically; there's nothing to configure.
+
+### Is Markpages free?
+
+Yes, Markpages is free to download and use.
 
 ## Contact
 
-Email **support@example.com** — include your app version (**Settings › About**) and device model.
+Email **amine.bensalah@intech-consulting.fr** — include your Markpages version (**Settings › About**) and device model so we can help faster.
 We usually reply within 2 business days.

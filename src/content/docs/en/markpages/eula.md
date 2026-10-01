@@ -6,16 +6,10 @@ sidebar:
   order: 4
 ---
 
-Markpages is licensed to you under Apple's
-[Standard Licensed Application End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/),
-completed by the terms below.
-
-## Subscriptions
-
-- Payment is charged to your Apple ID at confirmation of purchase.
-- Subscriptions renew automatically unless cancelled at least 24 hours before the end of the current period.
-- Manage or cancel them in **Settings › [your name] › Subscriptions**.
+Markpages is free to download and use, and is licensed to you under Apple's
+[Standard Licensed Application End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/).
+No additional purchase or subscription is required to use the app.
 
 ## Contact
 
-Questions about these terms: **legal@example.com**
+Questions about these terms: **amine.bensalah@intech-consulting.fr**
