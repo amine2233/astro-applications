@@ -3,31 +3,27 @@ title: Privacy Policy
 description: Privacy policy for Link Clipper.
 sidebar:
   order: 3
-effectiveDate: "2026-09-28"
+effectiveDate: "2026-10-01"
 ---
 
-_Effective date: September 28, 2026_
-
-:::caution[Template]
-Replace this text with a policy that matches what your app actually does — it must be consistent with your App Store privacy labels.
-:::
+_Effective date: October 1, 2026_
 
 ## Data we collect
 
-Link Clipper does **not** collect personal data. Your content stays on your device and, if enabled, in your private iCloud account, which we cannot access.
+Link Clipper collects **no data at all**. The page title and URL it reads are processed entirely on your Mac and copied straight to your clipboard — nothing is stored, logged, or transmitted anywhere.
 
 ## Analytics & crash reports
 
-We only receive anonymous crash reports and usage statistics shared by users who opted in through Apple.
+We only receive anonymous crash reports shared by users who opted in through Apple's own reporting. Link Clipper has no analytics of its own.
 
 ## Third parties
 
-No data is sold or shared with third parties.
+No data is collected, so none is shared or sold.
 
 ## Your rights (GDPR)
 
-You can request access to or deletion of any data concerning you by writing to **privacy@example.com**.
+Since Link Clipper does not collect any personal data, there is no data for us to access or delete on your behalf.
 
 ## Contact
 
-Your Company — Address — privacy@example.com
+Mohamed Amine Bensalah — amine.bensalah@intech-consulting.fr

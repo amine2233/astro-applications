@@ -7,13 +7,17 @@ sidebar:
 
 ## FAQ
 
-### My data doesn't sync
+### The toolbar icon doesn't appear in Safari
 
-Check that iCloud is enabled in **Settings › [your name] › iCloud** and that Link Clipper is allowed to use it.
+Open **Safari › Settings › Extensions**, make sure **Link Clipper** is enabled, then add it to the toolbar via **right-click the toolbar › Customize Toolbar**.
 
-### How do I restore my purchase?
+### Can I change the default copy format?
 
-Open **Settings › Restore purchases** in the app.
+Yes — open the extension's popover and choose **Plain URL** or **Markdown** as your default.
+
+### Does Link Clipper work in other browsers?
+
+Link Clipper is a Safari extension and currently only works in Safari on macOS 15 or later.
 
 ### How do I request a refund?
 
@@ -21,5 +25,5 @@ Refunds are handled by Apple: [reportaproblem.apple.com](https://reportaproblem.
 
 ## Contact
 
-Email **support@example.com** — include your app version (**Settings › About**) and device model.
+Email **amine.bensalah@intech-consulting.fr** — include your macOS and Safari version.
 We usually reply within 2 business days.

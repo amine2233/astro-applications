@@ -1,18 +1,17 @@
 ---
 title: À propos
-description: À propos de Link Clipper et de son éditeur.
+description: À propos de Link Clipper et de son développeur.
 sidebar:
   order: 6
 ---
 
-**Link Clipper** est développée par **Votre société**, studio indépendant d'applications natives pour les plateformes Apple.
+**Link Clipper** est développé par **Mohamed Amine Bensalah**, développeur indépendant d'applications natives pour les plateformes Apple.
 
-- Site : [example.com](https://example.com)
-- Contact : support@example.com
-- Version actuelle : 1.0
+- Contact : amine.bensalah@intech-consulting.fr
+- Version actuelle : 1.4.0
 
 ## Notes de version
 
-### 1.0 — septembre 2026
+### 1.4.0 — Août 2026
 
-- Première version.
+- Améliorations de stabilité et de performance.

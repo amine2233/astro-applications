@@ -1,21 +1,25 @@
 ---
 title: Conditions d'utilisation (CLUF)
-description: Contrat de licence utilisateur final de Link Clipper.
+description: Contrat de licence utilisateur final pour Link Clipper.
 sidebar:
-  label: CLUF / EULA
+  label: CLUF
   order: 4
 ---
 
-Link Clipper vous est concédée sous licence selon le
-[contrat de licence standard d'Apple (EULA)](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/),
+Link Clipper vous est concédé sous licence selon le
+[contrat de licence de logiciel d'application type d'Apple](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/),
 complété par les conditions ci-dessous.
 
-## Abonnements
+## Achat
 
-- Le paiement est débité de votre identifiant Apple à la confirmation de l'achat.
-- L'abonnement se renouvelle automatiquement sauf résiliation au moins 24 h avant la fin de la période en cours.
-- Gérez ou résiliez-le dans **Réglages › [votre nom] › Abonnements**.
+- Link Clipper est un achat unique (1,99 €) — il n'y a ni abonnement ni prélèvement récurrent.
+- Votre achat est lié à votre identifiant Apple et peut être partagé avec jusqu'à cinq membres via le **partage familial**.
+- Pour restaurer un achat précédent sur un nouvel appareil, connectez-vous avec le même identifiant Apple et réinstallez depuis l'App Store.
+
+## Remboursements
+
+Les remboursements sont gérés par Apple, et non par nous. Faites votre demande sur [reportaproblem.apple.com](https://reportaproblem.apple.com).
 
 ## Contact
 
-Questions sur ces conditions : **legal@example.com**
+Questions sur ces conditions : **amine.bensalah@intech-consulting.fr**

@@ -5,26 +5,28 @@ sidebar:
   order: 1
 ---
 
-## First launch
+## Enable the extension
 
-1. Open **Link Clipper**.
-2. Allow notifications if you want reminders.
-3. Tap **+** to create your first item.
+1. Open **Link Clipper** once after installing — it registers the Safari extension.
+2. In Safari, go to **Settings › Extensions** and turn on **Link Clipper**.
+3. Pin it to the toolbar for one-click access (right-click the toolbar › **Customize Toolbar**).
 
-## Main features
+## Copying a link
 
-### Feature one
+### Plain link
 
-Explain the feature in 2–3 sentences. Add a screenshot:
+Click the Link Clipper toolbar icon on any page. The cleaned-up URL — tracking parameters removed — is copied to your clipboard.
 
-<!-- ![Main screen](../../../../assets/sample-app/main.png) -->
-
-### Feature two
+### Markdown link
 
 :::tip
-Swipe left on an item to archive it.
+Hold **Option** while clicking the toolbar icon (or use the keyboard shortcut you set in Safari's extension preferences) to copy as `[Page Title](https://example.com)` instead of a plain URL.
 :::
 
-## Sync & backup
+## Choosing a default format
 
-Data is stored on your device and synced with iCloud when enabled in **Settings › iCloud**.
+Open the extension's popover and pick **Plain URL** or **Markdown** as your default — every click then copies in that format until you change it.
+
+## Tracking parameter removal
+
+Link Clipper strips common tracking parameters (like `utm_*`, `fbclid`, `gclid`) from the copied URL automatically — there's nothing to configure.

@@ -3,31 +3,27 @@ title: Politique de confidentialité
 description: Politique de confidentialité de Link Clipper.
 sidebar:
   order: 3
-effectiveDate: "2026-09-28"
+effectiveDate: "2026-10-01"
 ---
 
-_Date d'effet : 28 septembre 2026_
-
-:::caution[Modèle]
-Remplacez ce texte par une politique qui reflète réellement le fonctionnement de l'app — elle doit être cohérente avec vos étiquettes de confidentialité App Store.
-:::
+_Date d'effet : 1er octobre 2026_
 
 ## Données collectées
 
-Link Clipper **ne collecte aucune donnée personnelle**. Vos contenus restent sur votre appareil et, si activé, dans votre compte iCloud privé, auquel nous n'avons pas accès.
+Link Clipper ne collecte **aucune donnée**. Le titre et l'URL de la page lus par l'extension sont traités entièrement sur votre Mac et copiés directement dans votre presse-papiers — rien n'est stocké, enregistré ou transmis.
 
 ## Statistiques & rapports de plantage
 
-Nous recevons uniquement des rapports de plantage et statistiques anonymes partagés via Apple par les utilisateurs qui l'ont accepté.
+Nous ne recevons que des rapports de plantage anonymes, partagés par les utilisateurs ayant opté pour le partage via Apple. Link Clipper n'intègre aucun outil d'analyse propre.
 
 ## Tiers
 
-Aucune donnée n'est vendue ni partagée avec des tiers.
+Aucune donnée n'étant collectée, aucune n'est partagée ni vendue.
 
 ## Vos droits (RGPD)
 
-Vous pouvez demander l'accès ou la suppression de toute donnée vous concernant à **privacy@example.com**.
+Link Clipper ne collectant aucune donnée personnelle, il n'existe aucune donnée que nous puissions consulter ou supprimer en votre nom.
 
 ## Contact
 
-Votre société — Adresse — privacy@example.com
+Mohamed Amine Bensalah — amine.bensalah@intech-consulting.fr

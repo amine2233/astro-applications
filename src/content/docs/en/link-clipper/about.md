@@ -5,14 +5,13 @@ sidebar:
   order: 6
 ---
 
-**Link Clipper** is developed by **Your Company**, an independent studio building native apps for Apple platforms.
+**Link Clipper** is developed by **Mohamed Amine Bensalah**, an independent developer building native apps for Apple platforms.
 
-- Website: [example.com](https://example.com)
-- Contact: support@example.com
-- Current version: 1.0
+- Contact: amine.bensalah@intech-consulting.fr
+- Current version: 1.4.0
 
 ## Release notes
 
-### 1.0 — September 2026
+### 1.4.0 — August 2026
 
-- Initial release.
+- Stability and performance improvements.

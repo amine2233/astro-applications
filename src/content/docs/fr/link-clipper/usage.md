@@ -5,24 +5,28 @@ sidebar:
   order: 1
 ---
 
-## Premier lancement
+## Activer l'extension
 
-1. Ouvrez **Link Clipper**.
-2. Autorisez les notifications si vous souhaitez des rappels.
-3. Touchez **+** pour créer votre premier élément.
+1. Ouvrez **Link Clipper** une fois après l'installation — cela enregistre l'extension Safari.
+2. Dans Safari, allez dans **Réglages › Extensions** et activez **Link Clipper**.
+3. Épinglez-la à la barre d'outils pour un accès en un clic (clic droit sur la barre d'outils › **Personnaliser la barre d'outils**).
 
-## Fonctionnalités principales
+## Copier un lien
 
-### Fonctionnalité 1
+### Lien simple
 
-Décrivez la fonctionnalité en 2–3 phrases et ajoutez une capture d'écran.
+Cliquez sur l'icône Link Clipper dans la barre d'outils, sur n'importe quelle page. L'URL nettoyée — paramètres de tracking retirés — est copiée dans votre presse-papiers.
 
-### Fonctionnalité 2
+### Lien Markdown
 
 :::tip
-Balayez un élément vers la gauche pour l'archiver.
+Maintenez **Option** en cliquant sur l'icône (ou utilisez le raccourci clavier défini dans les préférences d'extensions de Safari) pour copier au format `[Titre de la page](https://exemple.com)` plutôt qu'une URL simple.
 :::
 
-## Synchronisation & sauvegarde
+## Choisir un format par défaut
 
-Les données sont stockées sur votre appareil et synchronisées avec iCloud si l'option est activée dans **Réglages › iCloud**.
+Ouvrez le menu de l'extension et choisissez **URL simple** ou **Markdown** comme format par défaut — chaque clic copiera ensuite dans ce format jusqu'à changement.
+
+## Suppression des paramètres de tracking
+
+Link Clipper retire automatiquement les paramètres de tracking courants (`utm_*`, `fbclid`, `gclid`) de l'URL copiée — rien à configurer.

@@ -7,13 +7,17 @@ sidebar:
 
 ## FAQ
 
-### Mes données ne se synchronisent pas
+### L'icône n'apparaît pas dans la barre d'outils Safari
 
-Vérifiez qu'iCloud est activé dans **Réglages › [votre nom] › iCloud** et que Link Clipper est autorisée à l'utiliser.
+Ouvrez **Safari › Réglages › Extensions**, vérifiez que **Link Clipper** est activée, puis ajoutez-la à la barre d'outils via **clic droit sur la barre d'outils › Personnaliser la barre d'outils**.
 
-### Comment restaurer mon achat ?
+### Puis-je changer le format de copie par défaut ?
 
-Ouvrez **Réglages › Restaurer les achats** dans l'app.
+Oui — ouvrez le menu de l'extension et choisissez **URL simple** ou **Markdown** comme format par défaut.
+
+### Link Clipper fonctionne-t-il dans d'autres navigateurs ?
+
+Link Clipper est une extension Safari et fonctionne uniquement dans Safari sur macOS 15 ou version ultérieure.
 
 ### Comment demander un remboursement ?
 
@@ -21,5 +25,5 @@ Les remboursements sont gérés par Apple : [reportaproblem.apple.com](https://r
 
 ## Contact
 
-Écrivez à **support@example.com** en indiquant la version de l'app (**Réglages › À propos**) et le modèle de votre appareil.
-Réponse sous 2 jours ouvrés en général.
+Écrivez à **amine.bensalah@intech-consulting.fr** — indiquez votre version de macOS et de Safari.
+Nous répondons généralement sous 2 jours ouvrés.
