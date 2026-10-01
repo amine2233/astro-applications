@@ -2,8 +2,18 @@
 // `npm run new-app -- <slug> "<Name>"` appends an entry here automatically.
 export const apps = [
   {
-    slug: 'sample-app',
-    name: 'Sample App',
-    nameFr: 'Sample App',
+    slug: 'markpages',
+    name: 'Markpages',
+    nameFr: 'Markpages',
+  },
+  {
+    slug: 'link-clipper',
+    name: 'Link Clipper',
+    nameFr: 'Link Clipper',
+  },
+  {
+    slug: 'qr-editor',
+    name: 'QR Editor',
+    nameFr: 'QR Editor',
   },
 ];
