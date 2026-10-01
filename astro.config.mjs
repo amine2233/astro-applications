@@ -16,7 +16,7 @@ export default defineConfig({
   trailingSlash: 'always',
   integrations: [
     starlight({
-      title: { en: 'Amine Bensalah', fr: 'Amine Bensalah' },
+      title: { en: 'My Apps', fr: 'Mes Apps' },
       logo: { src: './src/assets/logo.svg' },
       favicon: '/favicon.svg',
       social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/amine2233' }],
