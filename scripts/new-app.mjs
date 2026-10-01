@@ -12,7 +12,7 @@ if (!slug || !name || !/^[a-z0-9-]+$/.test(slug)) {
 
 const docs = 'src/content/docs';
 for (const locale of ['en', 'fr']) {
-  const src = join(docs, locale, 'sample-app');
+  const src = join('templates/sample-app', locale);
   const dest = join(docs, locale, slug);
   if (existsSync(dest)) {
     console.error(`${dest} already exists`);

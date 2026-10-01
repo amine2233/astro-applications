@@ -12,3 +12,80 @@
   --sl-color-accent: #0a64c8;
   --sl-color-accent-high: #06305f;
 }
+
+/* Home page — one card per app, color-coded (reuses Starlight's theme-aware
+   green/blue/red tokens, already used for aside callouts). */
+.app-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+  gap: 1.25rem;
+  margin: 2rem 0;
+}
+
+.app-card {
+  --app-color: var(--sl-color-accent);
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  padding: 1.75rem;
+  border-radius: 1rem;
+  background: var(--sl-color-bg-sidebar);
+  border: 1px solid var(--sl-color-hairline);
+  border-top: 3px solid var(--app-color);
+  text-decoration: none;
+  color: var(--sl-color-text);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.app-card:hover {
+  transform: translateY(-4px);
+  border-color: var(--app-color);
+  box-shadow: 0 16px 32px -16px var(--app-color);
+}
+
+.app-card__icon {
+  font-size: 1.75rem;
+  line-height: 1;
+}
+
+.app-card__title {
+  margin: 0;
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: var(--sl-color-white);
+}
+
+.app-card__platforms {
+  margin: 0;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: var(--app-color);
+}
+
+.app-card__desc {
+  margin: 0;
+  font-size: 0.9rem;
+  color: var(--sl-color-gray-2);
+  flex-grow: 1;
+}
+
+.app-card__cta {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--app-color);
+}
+
+.app-card--markpages {
+  --app-color: var(--sl-color-green);
+}
+
+.app-card--link-clipper {
+  --app-color: var(--sl-color-blue);
+}
+
+.app-card--qr-editor {
+  --app-color: var(--sl-color-red);
+}

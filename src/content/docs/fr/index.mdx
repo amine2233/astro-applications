@@ -1,19 +1,33 @@
 ---
 title: Mes Apps
-description: Documentation, support et informations légales de toutes mes applications.
+description: Documentation, support et informations légales de Markpages, Link Clipper et QR Editor.
 template: splash
 hero:
-  tagline: Documentation, aide et informations légales pour chaque application.
-  actions:
-    - text: Sample App
-      link: ./sample-app/
-      icon: right-arrow
+  tagline: Des applications indépendantes pour les plateformes Apple — documentation, support et informations légales au même endroit.
 ---
-
-import { CardGrid, LinkCard } from '@astrojs/starlight/components';
 
 ## Applications
 
-<CardGrid>
-  <LinkCard title="Sample App" description="iOS · macOS — courte présentation de l'app." href="./sample-app/" />
-</CardGrid>
+<div class="app-grid">
+  <a class="app-card app-card--markpages" href="./markpages/">
+    <span class="app-card__icon">📖</span>
+    <h3 class="app-card__title">Markpages</h3>
+    <p class="app-card__platforms">iOS · iPadOS · macOS · visionOS</p>
+    <p class="app-card__desc">Enregistrez et lisez n'importe quelle page web, organisée et sans publicité.</p>
+    <span class="app-card__cta">Découvrir →</span>
+  </a>
+  <a class="app-card app-card--link-clipper" href="./link-clipper/">
+    <span class="app-card__icon">🔗</span>
+    <h3 class="app-card__title">Link Clipper</h3>
+    <p class="app-card__platforms">macOS</p>
+    <p class="app-card__desc">Copiez des liens propres, prêts pour Markdown, depuis Safari.</p>
+    <span class="app-card__cta">Découvrir →</span>
+  </a>
+  <a class="app-card app-card--qr-editor" href="./qr-editor/">
+    <span class="app-card__icon">🔲</span>
+    <h3 class="app-card__title">QR Editor</h3>
+    <p class="app-card__platforms">iOS · iPadOS · macOS</p>
+    <p class="app-card__desc">Créez et personnalisez de superbes QR codes.</p>
+    <span class="app-card__cta">Découvrir →</span>
+  </a>
+</div>
